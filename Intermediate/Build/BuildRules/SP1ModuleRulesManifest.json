@@ -1,0 +1,18 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Desktop\\HW08\\Source\\SP1\\SP1.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderDebuggerSupport\\RiderDebuggerSupport.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderLC\\RiderLC.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Source\\SP1.Target.cs",
+		"C:\\Users\\User\\Desktop\\HW08\\Source\\SP1Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
